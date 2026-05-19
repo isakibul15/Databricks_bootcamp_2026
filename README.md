@@ -17,10 +17,14 @@
 ## 🎥 Video Tutorial
 
 <div align="center">
-  
-[![Watch the video](https://img.youtube.com/vi/tROyARdT56g/maxresdefault.jpg)](https://youtu.be/tROyARdT56g?autoplay=1)
 
-**Click the image to watch on YouTube**
+### Watch Locally:
+<video width="100%" height="400" controls>
+  <source src="Data_LakeHouse_using_DataBricks.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+**[View on YouTube](https://youtu.be/tROyARdT56g)** | **[Download Video](Data_LakeHouse_using_DataBricks.mov)**
 
 </div>
 
