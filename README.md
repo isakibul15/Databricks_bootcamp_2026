@@ -16,7 +16,9 @@
 
 ## 🎥 Video Tutorial
 
-📹 **Watch the Complete Guide:** [Data LakeHouse using Databricks](https://youtu.be/tROyARdT56g)
+<div align="center">
+  <iframe width="100%" height="400" src="https://www.youtube.com/embed/tROyARdT56g?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 
