@@ -14,6 +14,12 @@
 
 ---
 
+## 🎥 Video Tutorial
+
+📹 **Watch the Complete Guide:** [Data LakeHouse using Databricks](https://youtu.be/tROyARdT56g)
+
+---
+
 ## 📋 Overview
 
 This repository contains a **Databricks Lakehouse** project that processes and transforms customer relationship management (CRM) data for bike rental operations. The project follows the industry-standard **medallion architecture** (Bronze → Silver → Gold) for progressive data refinement and quality improvement.
