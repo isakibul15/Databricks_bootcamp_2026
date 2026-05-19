@@ -18,13 +18,11 @@
 
 <div align="center">
 
-### Watch Locally:
-<video width="100%" height="400" controls>
-  <source src="Data_LakeHouse_using_DataBricks.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**🎬 Complete Tutorial Video**
 
-**[View on YouTube](https://youtu.be/tROyARdT56g)** | **[Download Video](Data_LakeHouse_using_DataBricks.mov)**
+[![YouTube Video](https://img.youtube.com/vi/tROyARdT56g/maxresdefault.jpg)](https://youtu.be/tROyARdT56g?autoplay=1)
+
+**[▶️ Watch on YouTube (Autoplay)](https://youtu.be/tROyARdT56g?autoplay=1)** | **[📥 Download/Stream Video](https://github.com/isakibul15/Databricks_bootcamp_2026/raw/main/Data_LakeHouse_using_DataBricks.mov)**
 
 </div>
 
