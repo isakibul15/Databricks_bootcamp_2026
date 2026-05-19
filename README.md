@@ -17,7 +17,11 @@
 ## 🎥 Video Tutorial
 
 <div align="center">
-  <iframe width="100%" height="400" src="https://www.youtube.com/embed/tROyARdT56g?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+[![Watch the video](https://img.youtube.com/vi/tROyARdT56g/maxresdefault.jpg)](https://youtu.be/tROyARdT56g?autoplay=1)
+
+**Click the image to watch on YouTube**
+
 </div>
 
 ---
